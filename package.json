@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "@primevue/themes": "^4.0.5",
+    "bootstrap-vue": "^2.23.1",
     "pinia": "^2.2.2",
     "primevue": "^4.0.5",
-    "vue": "^3.4.29"
+    "vue": "^3.4.29",
+    "vuetify": "^2.7.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",

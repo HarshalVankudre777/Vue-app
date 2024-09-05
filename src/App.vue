@@ -19,6 +19,7 @@ function toggleDarkMode() {
     <span class="dark-mode-text">Dark Mode</span>
   </div>
   <div class="content">
+    <h1>Expense Tracker</h1>
     <Form/>
     <Table/>
   </div>
